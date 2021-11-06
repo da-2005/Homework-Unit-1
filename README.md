@@ -19,5 +19,5 @@ On top of this, a CSS file was also requested to be worked on and required the f
 
 <img width="1440" alt="Horiseon-3" src="https://user-images.githubusercontent.com/90587395/140593568-9fa2aacb-e90e-47fa-a857-830b65bec63f.png">
 
-https://da-2005.github.io/Horiseon-Refactoring/#social-media-marketing
+https://da-2005.github.io/Horiseon-Refactoring
 
