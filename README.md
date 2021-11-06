@@ -13,5 +13,9 @@ I was given an HTML file for refactoring in order to make it more accessible for
 On top of this, a CSS file was also requested to be worked on and required the file to be editied as needed so it would follow the HTML's semantic structure. 
 
 ### Screenshot and live URL
-<img width="1440" alt="Horiseon-1" src="https://user-images.githubusercontent.com/90587395/140593367-08200e9d-7947-49cd-8aef-deb123522a27.png"> 
+<img width="1440" alt="Horiseon-1" src="https://user-images.githubusercontent.com/90587395/140593367-08200e9d-7947-49cd-8aef-deb123522a27.png">
+
+<img width="1440" alt="Horiseon-2" src="https://user-images.githubusercontent.com/90587395/140593462-c17d2ee6-cf36-42ed-91f7-459de517a74d.png">
+
+<img src="./assets/images/Horiseon-3.png">
 
